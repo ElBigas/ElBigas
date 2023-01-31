@@ -14,9 +14,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBigas&theme=dark&card_width=150px&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBigas&theme=dark&card_width=150&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBigas&theme=dark&layout=compact&card_width=150px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBigas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div style="display: inline_block">
