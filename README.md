@@ -10,12 +10,13 @@
   <p>- 𝔓𝔢𝔯𝔰𝔦𝔰𝔱𝔰 𝔞𝔩𝔬𝔫𝔢. <br>
 𝔐𝔞𝔨𝔢 𝔶𝔬𝔲𝔯 𝔥𝔢𝔞𝔯𝔱 𝔞 𝔰𝔭𝔢𝔞𝔯, 𝔶𝔬𝔲𝔯 𝔠𝔥𝔢𝔰𝔱 𝔞 𝔰𝔥𝔦𝔢𝔩𝔡, 𝔣𝔬𝔩𝔩𝔬𝔴 𝔱𝔥𝔢 𝔦𝔪𝔭𝔲𝔩𝔰𝔢 𝔬𝔣 𝔶𝔬𝔲𝔯 𝔞𝔯𝔪 𝔞𝔫𝔡 𝔰𝔱𝔯𝔦𝔨𝔢 𝔦𝔫 𝔱𝔥𝔢 𝔩𝔞𝔰𝔱 𝔢𝔣𝔣𝔬𝔯𝔱 𝔬𝔣 𝔶𝔬𝔲𝔯 𝔡𝔢𝔰𝔭𝔞𝔦𝔯.
   </p>
-  <img align="right" alt="ElBigas-pic" height="150" style="border-radius: 50px;" src="https://artsdot.com/ADC/Art-ImgScreen-3.nsf/O/A-8XZMH2/$FILE/Michelangelo-buonarroti-david-detail-.Jpg">
 </div>
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBigas&theme=dark&&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElBigas&theme=dark&card_width=150px&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElBigas&theme=dark&layout=compact&card_width=150px)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div style="display: inline_block">
