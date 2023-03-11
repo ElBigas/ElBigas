@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Emanuel Evangelista 👋
 
 - 🔭 Atualmente trabalho como Analista de SD
-- 🌱 Estudando HTML, CSS e JavaScript. 
+- 🌱 Estudando JavaScript e React.Js 
 - 📫 E-mail: emanuelevangelista90@gmail.com
 
 ##
