@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Emanuel Evangelista 👋
 
-- 🔭 Atualmente trabalho como Analista de SD
 - 🌱 Estudando PHP 
 - 📫 E-mail: emanuelevangelista90@gmail.com
 
@@ -23,7 +22,6 @@
 ##
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="React" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" alt="PHP" height="30" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
   <img align="center" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
