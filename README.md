@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Emanuel Evangelista 👋
 
-- 🌱 Estudando PHP 
+- 🌱 Estudando Next.Js e Laravel 
 - 📫 E-mail: emanuelevangelista90@gmail.com
 
 ##
